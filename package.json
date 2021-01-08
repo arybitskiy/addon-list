@@ -1,0 +1,13 @@
+{
+  "name": "addon-list",
+  "version": "1.0.0",
+  "repository": "git@github.com:arybitskiy/addon-list.git",
+  "author": "arybitskiy <alekso.php@gmail.com>",
+  "license": "MPL-2.0",
+  "scripts": {
+    "bump": "node bump-version"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

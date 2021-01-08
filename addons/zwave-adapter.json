@@ -3,8 +3,8 @@
   "name": "Z-Wave",
   "description": "Z-Wave device support",
   "author": "WebThingsIO",
-  "homepage_url": "https://github.com/arybitskiy/zwave-adapter",
-  "license_url": "https://raw.githubusercontent.com/arybitskiy/zwave-adapter/master/LICENSE",
+  "homepage_url": "https://github.com/WebThingsIO/zwave-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/zwave-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,8 +15,8 @@
           "64"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm-v10.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm-v10.tgz",
       "checksum": "d18824a57fd2c1451907052a427ad9073afaab1ad30561da6078278fbd1142d0",
       "gateway": {
         "min": "0.10.0",
@@ -31,8 +31,8 @@
           "64"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm64-v10.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm64-v10.tgz",
       "checksum": "4c8859151f89f421f3d30c5a93cf28df39a96e8c565107a53d882db956ac8d78",
       "gateway": {
         "min": "0.10.0",
@@ -47,8 +47,8 @@
           "64"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-x64-v10.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-x64-v10.tgz",
       "checksum": "edc8ad713e5c654b446666e438b077612fd04dff53112a8bf69e0a03a6f5f47f",
       "gateway": {
         "min": "0.10.0",
@@ -63,8 +63,8 @@
           "64"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-darwin-x64-v10.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-darwin-x64-v10.tgz",
       "checksum": "cbc1c4b92ee53bdb541b317768fcecef30c0e125ff86e77a68fc905d55f95598",
       "gateway": {
         "min": "0.10.0",
@@ -79,8 +79,8 @@
           "72"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm-v12.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm-v12.tgz",
       "checksum": "632128995dde1d9c940526e07a2375e126651caf2d73ef82274edcc679f50da4",
       "gateway": {
         "min": "0.10.0",
@@ -95,8 +95,8 @@
           "72"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm64-v12.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm64-v12.tgz",
       "checksum": "7045fbfcfecf0c9081240cd7e09080cc2fe2f7f94154eaeb475261cf6b8359ea",
       "gateway": {
         "min": "0.10.0",
@@ -111,8 +111,8 @@
           "72"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-x64-v12.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-x64-v12.tgz",
       "checksum": "7a95fdabdfd4418ec81bcf2de4d6d09f557652148f5bd0e54a3d2d23d758e67f",
       "gateway": {
         "min": "0.10.0",
@@ -127,8 +127,8 @@
           "72"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-darwin-x64-v12.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-darwin-x64-v12.tgz",
       "checksum": "8edb2f3986727255b5db0bf846bfd3e2a92a604beb287b6ea0afa23d5d02e555",
       "gateway": {
         "min": "0.10.0",
@@ -143,8 +143,8 @@
           "83"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm-v14.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm-v14.tgz",
       "checksum": "4af4b972e0372130a383e50e83c0f9f58453889eadc3a949f03fbf2e9bd6aa61",
       "gateway": {
         "min": "0.10.0",
@@ -159,8 +159,8 @@
           "83"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm64-v14.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm64-v14.tgz",
       "checksum": "a798dfc400aad36e07053c5b5da0347ed34ec0bec8ddcb0226f62568120823f3",
       "gateway": {
         "min": "0.10.0",
@@ -175,8 +175,8 @@
           "83"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-x64-v14.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-x64-v14.tgz",
       "checksum": "a0aaf254034ad57177990e46ce6e753f21040fea213bfbbd9e34a1ea47ab3967",
       "gateway": {
         "min": "0.10.0",
@@ -191,8 +191,8 @@
           "83"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-darwin-x64-v14.tgz",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-darwin-x64-v14.tgz",
       "checksum": "d4b662554908875bed5ded6e395f77519d52b69444fef4b2269933f7c4838afa",
       "gateway": {
         "min": "0.10.0",

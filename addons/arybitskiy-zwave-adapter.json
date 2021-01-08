@@ -1,0 +1,203 @@
+{
+  "id": "arybitskiy-zwave-adapter",
+  "name": "Z-Wave [arybitskiy]",
+  "description": "Z-Wave device support",
+  "author": "arybitskiy",
+  "homepage_url": "https://github.com/arybitskiy/zwave-adapter",
+  "license_url": "https://raw.githubusercontent.com/arybitskiy/zwave-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm-v10.tgz",
+      "checksum": "01d23f118a35c8d34ae2f1d4c7485697c051f073b1b724f517b1d9137cca5d49",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm64-v10.tgz",
+      "checksum": "232fca252a94ea65db76480b19de181dae6d480f5a9a9bb89b9dcd5af683a6b1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-x64-v10.tgz",
+      "checksum": "8ff2c7dd28e8fcf801ed631939a0a770caa45b5dc107e96f4c942998a1f8b75c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-darwin-x64-v10.tgz",
+      "checksum": "68eb187f459eec5b400650b3c52bf4802d9f96a389670151ddc2b4d200acaf54",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm-v12.tgz",
+      "checksum": "2e3c7b755b75eefd749a2827e6049c6c98f7a8a10e4c41e4545577c55a210e7f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm64-v12.tgz",
+      "checksum": "75b984a49790733061c5008c1a81085789657cc9f4169808ba91389132855be2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-x64-v12.tgz",
+      "checksum": "905954685db6e3713bfdfd712a628cb216a32fed305c58fcd7fbf8ab232bcfb3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-darwin-x64-v12.tgz",
+      "checksum": "be6d3bdacb1a9587ea399921eda026da556f492ebf229729a216be73c9645e00",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm-v14.tgz",
+      "checksum": "afc228b62f074372edbf1b409ae979722e79ed1b15115b9fb7314a98334bf4c2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-arm64-v14.tgz",
+      "checksum": "4e2c337e0bd9203107fa4b8f508f78b1d8275d033088b96cef6b3e92995b2268",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-linux-x64-v14.tgz",
+      "checksum": "20b2eb0be6759e566e43659b3d5b5af9fa4f2fdd09a2e265b0e7cc0ee5e7b1cd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.3",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.3/zwave-adapter-1.0.3-darwin-x64-v14.tgz",
+      "checksum": "91d3bf6052cd05f5763607198e7dc57f5989aaf2e1d5672410e6d349b50f6285",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
