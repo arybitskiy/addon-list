@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-arm-v10.tgz",
-      "checksum": "8678eeea7ee3062d7738bd521a1a57ca6178355d85f5883535e199c4e6cef1b7",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-arm-v10.tgz",
+      "checksum": "382009150cf1ef545a5392cde815d9b533e65821b1c4d06db648a4d45f8f099f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-arm64-v10.tgz",
-      "checksum": "bc7719d67c21a6e4d3302ac844cd35648fd51b27b7d54e42720671b9394ebfd5",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-arm64-v10.tgz",
+      "checksum": "9e87b9724eb66c54af4703e895fa7ef4161473e13585e03f6e44c7ad9e11cb09",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-x64-v10.tgz",
-      "checksum": "1e372eed7c9e9a744e6cd65ff804628ef66c5be2d90eae909b19de6575b9a768",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-x64-v10.tgz",
+      "checksum": "ca615667270376f01ca4a08bbc53b2e8c55a2ca7380541d59581ac2de3368916",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-darwin-x64-v10.tgz",
-      "checksum": "b7a1a97544b4adb5c3c43d8f8056fde344b7365781aca16ec55a000e8e39db75",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-darwin-x64-v10.tgz",
+      "checksum": "f38d02b40802e7c3d8f5c653f41b03cfae928a2f40c960a1a2a357c3c0d0bc1a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-arm-v12.tgz",
-      "checksum": "61d36197092e2974ef574bc173b3663da9d0ebdfdda7b81a8defa6a3c71a9b93",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-arm-v12.tgz",
+      "checksum": "4aa31ad3bf47cb114b551c271d6dd4f894616f14324d2a996bc6e07944a75075",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-arm64-v12.tgz",
-      "checksum": "325812bae300e6a41c1aaa339fd80ded836cbe7dd6b0ac55a5aeb99b596419b0",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-arm64-v12.tgz",
+      "checksum": "a96850c6df9785f894b56a3a22db7c6fa7d4553bf626bcd52bb156f0de8de9e5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-x64-v12.tgz",
-      "checksum": "8143eb244faed9259cc9fcb0da9d8aa974e224af81a033581319eb8e9a35bdf1",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-x64-v12.tgz",
+      "checksum": "792d20149fc7229237334013b28966de2b5ec0c18043a65e59094138c90ecdb7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-darwin-x64-v12.tgz",
-      "checksum": "00f4747d3a71a920f0782f9d4dbe26dedc682a98b3a2bd42821b7ed10d3531c3",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-darwin-x64-v12.tgz",
+      "checksum": "12726864da93f42317896603d5d8228f5146268c8ebebe6f7a0b7f6091219f42",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-arm-v14.tgz",
-      "checksum": "e04e0443f05afdb0c267091250f7085ffadcda81d51de98a11e8af69469ea73a",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-arm-v14.tgz",
+      "checksum": "e9723e8856f7ca88e02da9fe7abe4b7f36057b140008d3a0a46bbc58b5f2300d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-arm64-v14.tgz",
-      "checksum": "cebf148412cd7221afaafce6466951ff03f36339572431de6314b78854b9eff5",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-arm64-v14.tgz",
+      "checksum": "545dee55ae57161a865f435e3a0b3bc47fdfa47afb969d88b2b5618e0e5694e7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-linux-x64-v14.tgz",
-      "checksum": "29971bec284c55b24b9ef540e7b1c55b0c76e1ee976c6f304051dc399d39fd0c",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-linux-x64-v14.tgz",
+      "checksum": "28645ac2b5165b681d7c6cd2765c557318962401d63c41e79ce6bae325090999",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.4/zwave-adapter-1.0.4-darwin-x64-v14.tgz",
-      "checksum": "a1409dfe6819233e6dfd422ff45d2041b5f7e69d27230dce5f567ed855b805be",
+      "version": "1.0.6",
+      "url": "https://github.com/arybitskiy/zwave-adapter/releases/download/v1.0.6/arybitskiy-zwave-adapter-1.0.6-darwin-x64-v14.tgz",
+      "checksum": "76a6f433c68140e8f94b2232c60691fc44727ae3715cc4a610fccd76e743c004",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
